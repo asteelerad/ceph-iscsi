@@ -19,7 +19,7 @@ cluster_name = <ceph cluster name>
 # gateway node. With the SSL files in place, you can use api_secure = true
 # to switch to https mode.
 
-# To support the api, the bear minimum settings are;
+# To support the api, the bare minimum settings are;
 api_secure = false
 
 # Additional API configuration options are as follows (defaults shown);
